@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/whisky/Documents/flutter/mi_card_flutter-master/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/whisky/Documents/flutter/mi_card_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/whisky/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/res/values/values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/whisky/Documents/flutter/mi_card_flutter-master/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/whisky/Documents/flutter/mi_card_flutter/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

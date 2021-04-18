@@ -8,8 +8,11 @@ void main() {
         backgroundColor: Colors.teal,
         appBar: AppBar(
           title: Text(
-            'Mi Cart',
-            style: TextStyle(color: Colors.black),
+            'Mind Cart',
+            style: TextStyle(
+              color: Colors.white,
+              fontWeight: FontWeight.bold,
+            ),
           ),
         ),
         body: Mypage(),
